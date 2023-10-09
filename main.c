@@ -3,5 +3,3 @@
 //IKJAE
 
 //develop
-
-//lcd
